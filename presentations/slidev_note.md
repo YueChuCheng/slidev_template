@@ -57,7 +57,7 @@ title: Welcome to Slidev
     3. Select the **gh-pages** branch to deploy, ```REPO>>Settings>>Pages>>Build and deployment>>Branch```
     4. Publish the local repo to remote
     5. Wait for deploying the websit
-    6. Finish!! Check your website under ```https://yuechucheng.github.io/REPO/```
+    6. Finish!! Check your website under ```https://yuechucheng.github.io/REPO/``` or ```https://yuechucheng.github.io/REPO/FOLDER``` for multi-entry
     * <span style="click=1; color:red;font-weight:900"> Currently, the Slidev is not allow to create the website under <i>username.github.io</i>.</span>
 
 ---
