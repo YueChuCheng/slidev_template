@@ -6,9 +6,10 @@
     "export": "./slidev.sh export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.30.3",
-    "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*",
+    "@slidev/cli": "^0.48.1",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "vue": "^3.4.21",
     "playwright-chromium": "^1.21.1"
   },
   "name": "slides"
